@@ -1,2 +1,5 @@
 Format specifiers used
-%d - int
+%d - int (q2 , q3
+%s - string (q3 , 
+%f - float (q3 , 
+%lf - double (q3 , 
